@@ -1,4 +1,3 @@
-# AR-Menu-App
 <h1>AR Menu App</h1>
 An AR app for restaurants to enhance the dining experience by displaying digital versions of menu items on real plates using augmented reality technology. Customers can easily view and interact with the virtual dishes, making it easier to visualize and choose their meals.
 <h2>Setup</h2>
