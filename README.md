@@ -1,5 +1,5 @@
 <h1>AR Menu App</h1>
-An AR app for restaurants to enhance the dining experience by displaying digital versions of menu items on real plates using augmented reality technology. Customers can easily view and interact with the virtual dishes, making it easier to visualize and choose their meals.
+A very simple AR app for restaurants to enhance the dining experience by displaying digital versions of menu items on real plates using augmented reality technology. Customers can easily view and interact with the virtual dishes, making it easier to visualize and choose their meals.
 <h2>Setup</h2>
 <ul>
 	<li>Make sure you have unity version 2021.3.16f1 with android & IOS build support for the best results</li>
